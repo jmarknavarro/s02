@@ -1,0 +1,36 @@
+{
+  "id": "631596e4a8d37f18a223c6fd",
+  "name": "SIA2",
+  "description": "Information Technology",
+  "price": "1,000",
+  "slots": "25",
+  "schedule": "TTh 16:00 - 19:00 ",
+  "instructor": "Ms.Fernandez",
+  "isActive": "active",
+  "enrollees": [
+    {
+      "id": "1",
+      "userId": "631595ada8d37f18a223c6fa",
+      "userName": "jmarknavarro",
+      "isPaid": "Completed",
+      "dateEnrolled": "09/03/2022"
+    }
+  ],
+  "id": "631598d5a8d37f18a223c703",
+  "name": "Networking3",
+  "description": "Information Technology",
+  "price": "1,000",
+  "slots": "20",
+  "schedule": "TTh 10:00 - 12:00 ",
+  "instructor": "Ms.Santos",
+  "isActive": "active",
+  "enrollees": [
+    {
+      "id": "2",
+      "userId": "6315996fa8d37f18a223c705",
+      "userName": "rmariano",
+      "isPaid": "Completed",
+      "dateEnrolled": "09/02/2022"
+    }
+  ]
+}

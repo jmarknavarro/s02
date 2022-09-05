@@ -1,0 +1,36 @@
+{
+  "_id": "631595ada8d37f18a223c6fa",
+  "username": "jmarknavarro",
+  "firstName": "John Mark",
+  "lastName": "Navarro",
+  "email": "jmarknavarro@gmail.com",
+  "password": "CEU1234",
+  "mobileNumber": "09151731445",
+  "isAdmin": "false",
+  "enrollments": [
+    {
+      "id": "631596e4a8d37f18a223c6fd",
+      "courseId": "63159743a8d37f18a223c6fe",
+      "courseName": "SIA2",
+      "isPaid": "Complete",
+      "dateEnrolled": "09/03/2022"
+    }
+  ],
+  "_id": "63159a73a8d37f18a223c708",
+  "username": "rmariano",
+  "firstName": "Ralph",
+  "lastName": "Mariano",
+  "email": "rmariano@gmail.com",
+  "password": "CEU123",
+  "mobileNumber": "0915238238",
+  "isAdmin": "false",
+  "enrollments": [
+    {
+      "id": "631596e4a8d37f18a223c6fd",
+      "courseId": "6315996fa8d37f18a223c705",
+      "courseName": "SIA2",
+      "isPaid": "Complete",
+      "dateEnrolled": "09/03/2022"
+    }
+  ]
+}
